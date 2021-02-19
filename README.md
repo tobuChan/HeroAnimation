@@ -1,6 +1,6 @@
 # HeroAnimation
 
-A new Flutter project.
+A HeroAnimation with ListView instance in Flutter.
 
 ## Getting Started
 
